@@ -1,0 +1,10 @@
+.page-header {
+  height: 70px;
+  box-shadow: 0px 2px 5px 0px rgba(0, 0, 0, 0.04);
+}
+
+.avatar {
+  width: 42px;
+  height: 42px;
+  margin-right: 30px;
+}

@@ -1,0 +1,19 @@
+.navbar {
+  width: 138px;
+  background-color: #293047;
+}
+
+.logo {
+  width: 56px;
+  height: 56px;
+  margin: 15px 0;
+}
+
+a {
+  line-height: 36px;
+  font-size: 16px;
+  font-weight: 400;
+  color: #f5f5f5;
+  cursor: pointer;
+  user-select: none;
+}
